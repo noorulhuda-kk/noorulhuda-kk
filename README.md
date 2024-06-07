@@ -26,7 +26,7 @@ public class Noor {
 
 - 📄 Know about my experiences [here](https://sites.google.com/view/noorulhuda-portfolio)
 
-<h3 align="left">Connect with me:</h3>
+<!--  <h3 align="left">Connect with me:</h3> -->
 <p align="left">
 </p>
 
