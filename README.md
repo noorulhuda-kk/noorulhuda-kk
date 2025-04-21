@@ -7,9 +7,9 @@ public class Noor {
   private String name = "Noor";
   private String degree = "BSCS";
   private boolean onSummerBreak = true;
-  private int upcomingSemester = 7;
+  private int currentSemester = 8;
 
-  private String currentLearningTopic = "AI & ML algorithms";
+  private String currentLearningTopic = "Argumentation Theory in NLP";
 
   private ResearchFocus researchFocus = new ResearchFocus("Effects of quantized images on adversarial networks");
 
