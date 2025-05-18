@@ -6,7 +6,6 @@
 public class Noor {
   private String name = "Noor";
   private String degree = "BSCS";
-  private boolean onSummerBreak = true;
   private int currentSemester = 8;
 
   private String currentLearningTopic = "Argumentation Theory in NLP";
